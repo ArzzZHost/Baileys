@@ -130,7 +130,7 @@ Feel free to modify and distribute under your own terms.
 
 **Arkan**  
 > Developer • Coder • WhatsApp Automation Enthusiast  
-> GitHub: [@arkanjs](https://github.com/arkanjs)
+> GitHub: [@arkanjs](https://github.com/ArzzZHost)
 
 ---
 
